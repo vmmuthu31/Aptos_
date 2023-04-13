@@ -1,0 +1,8 @@
+[package]
+name = "Examples"
+version = "0.0.0"
+license* = "MIT"             
+authors* = "Barfi"           
+[addresses]
+hello_blockchain ="_" | "0x397fce51fd23a581648c7c702d69d7cc6cbe5a73d034e5ae0894be8e6f03c400"
+
